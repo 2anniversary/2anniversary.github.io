@@ -5,6 +5,12 @@ main:
      url: https://2anniversary.github.io/
    - title: "About"
      url: /About/
+   - title: "Programming_Study"
+     url: /Programming_Study/
+   - title: "Network_Study"
+     url: /Network_Study/
+ 
+  
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
